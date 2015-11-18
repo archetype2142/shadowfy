@@ -1,5 +1,6 @@
 # shadowfy
 Shadowfy your name. The app uses simple css to add shadow effect to your name
+view demo on http://shadowfy.parseapp.com
 
 ```
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
