@@ -7,7 +7,7 @@ $("button").click(function(){
 
     $(function(){
       $(".element").typed({
-        strings: ["Welcome to Shadowfy", "Hi, I'm Ritwick :)", "Type your name below and press the shadowfy button"],
+        strings: ["Welcome to Shadowfy", "Hi, I'm Ritwick :)"],
         typeSpeed: 10
       });
     });
