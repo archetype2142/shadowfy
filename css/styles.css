@@ -46,13 +46,13 @@ body {
   background-color:#414141;
 }
 
-#footer a {
-  color:#efefef;
+#footer {
+  color: black;
 }
 
 #footer {
   height: 60px;
-  background-color: #f5f5f5;
+  background-color: grey;
   margin-top:50px;
   padding-top:20px;
   padding-bottom:20px;
@@ -61,3 +61,11 @@ body {
   width: 100%;
 }
 
+#a_tag{
+	text-decoration: none;
+	color: black;
+}
+
+#a_tag:hover{
+	color: green;
+}
